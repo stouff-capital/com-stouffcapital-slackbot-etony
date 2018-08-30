@@ -1,0 +1,26 @@
+{
+  "name": "com-stouffcapital-slackbot-etony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stouff-capital/com-stouffcapital-slackbot-etony.git"
+  },
+  "author": "Greg Chevalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stouff-capital/com-stouffcapital-slackbot-etony/issues"
+  },
+  "homepage": "https://github.com/stouff-capital/com-stouffcapital-slackbot-etony#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^6.0.0",
+    "slackbots": "^1.1.0"
+  }
+}
